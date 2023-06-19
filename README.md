@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dnl-kg
-- 👀 I’m interested in ... Web Development and Software Engineering
-- 🌱 I’m currently learning ... Web development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Web Development, Software Engineering and Machine Learning
+- 🌱 I’m currently learning ... Web development and ML
+- 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ...
 
 <!---
